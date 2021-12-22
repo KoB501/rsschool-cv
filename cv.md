@@ -1,6 +1,8 @@
 # Kirill Gundorov
 <br>
 
+[<img src="https://github.com/KoB501/rsschool-cv/blob/rsschool-cv-html/img/profile.jpg" width="250"/>](profile.jpg)
+
 ## Contact information:
 + **Location:** Sergiev Posad, Russia
 + **Phone:** +7-968-544-03-52
