@@ -1,6 +1,8 @@
 # Kirill Gundorov
 <br>
 
+[<img src="https://user-images.githubusercontent.com/96067592/147144254-c187df4d-3e52-41a1-8c41-a5df687f3acd.jpg" width="250"/>](profile.jpg)
+
 ## Contact information:
 + **Location:** Sergiev Posad, Russia
 + **Phone:** +7-968-544-03-52
