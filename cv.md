@@ -8,7 +8,6 @@
 + **Telegram:** @Keriller
 
 ## Briefly About Me:
-\
 Not so long ago I got carried away with front-end development and began to study Html, Css on my own. It was difficult at first, but the more I learned, the easier it was to understand new information.\
 \
 There are no restrictions on development in the Front-end, here you need to constantly learn and improve yourself. Front-end in web development is very versatile and rich in different technologies for completely different tasks. This is the main reason I decided to learn Web Development.\
