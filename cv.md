@@ -6,7 +6,6 @@
 + **Phone:** +7-968-544-03-52
 + **E-mail:** gundorov.kiril@mail.ru
 + **Telegram:** @Keriller
-***
 
 ## Briefly About Me:
 \
@@ -17,7 +16,6 @@ There are no restrictions on development in the Front-end, here you need to cons
 A technical education gives me the ability to think mathematically and systematically. I highly appreciate teamwork and the ability to do a common cause. I am sociable and polite. Tolerant of criticism.\
 \
 My goal is to achieve the highest possible skill in this area. And I believe, that I can achieve this.
-***
 
 ## Skills:
 * HTML
@@ -25,7 +23,6 @@ My goal is to achieve the highest possible skill in this area. And I believe, th
 * Adobe Photoshop
 * Git
 * JavaScript (Basic)
-***
 
 ## Code example:
 Introductory task from [Codewars](https://www.codewars.com/dashboard "Codewars")
@@ -37,17 +34,14 @@ return a * b;
 let result = multiply(3, 5);
 alert( result );
 ```
-***
 
 ## Experience:
 [CodePen](https://codepen.io/Keriller "Примеры работ в CodePen")
-***
 
 ## Education and Courses:
 * MIREA - Russian Technological University, Information systems and technologies
 * Rs Schools Course <JavaScript/Front-end. Stage 0> (in progress)
 * HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/ "w3schools")
-***
 
 ## Languages:
 * **English** - [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments "EPAM Тест"): A2
