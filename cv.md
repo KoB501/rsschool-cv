@@ -42,3 +42,13 @@ alert( result );
 ## Experience:
 [CodePen](https://codepen.io/Keriller "Примеры работ в CodePen")
 ***
+
+## Education and Courses:
+* MIREA - Russian Technological University, Information systems and technologies
+* Rs Schools Course <JavaScript/Front-end. Stage 0> (in progress)
+* HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/ "w3schools")
+***
+
+## Languages:
+* **English** - [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments "EPAM Тест"): A2
+* **Russian** - Native
