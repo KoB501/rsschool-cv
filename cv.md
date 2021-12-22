@@ -1,7 +1,7 @@
 # Kirill Gundorov
 <br>
 
-[<img src="https://user-images.githubusercontent.com/96067592/147144254-c187df4d-3e52-41a1-8c41-a5df687f3acd.jpg" width="250"/>](profile.jpg)
+[<img src="https://github.com/KoB501/rsschool-cv/blob/rsschool-cv-html/img/profile.jpg" width="250"/>](profile.jpg)
 
 ## Contact information:
 + **Location:** Sergiev Posad, Russia
