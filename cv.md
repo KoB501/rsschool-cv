@@ -1,8 +1,6 @@
 # Kirill Gundorov
 <br>
 
-[<img src="https://github.com/KoB501/rsschool-cv/blob/rsschool-cv-html/img/profile.jpg" width="250"/>](./profile.jpg)
-
 ## Contact information:
 + **Location:** Sergiev Posad, Russia
 + **Phone:** +7-968-544-03-52
@@ -38,10 +36,11 @@ alert( result );
 
 ## Experience:
 [CodePen](https://codepen.io/Keriller "Примеры работ в CodePen")
-
+[GitHub](https://github.com/KoB501?tab=repositories "GitHub")
 ## Education and Courses:
 * MIREA - Russian Technological University, Information systems and technologies
-* Rs Schools Course <JavaScript/Front-end. Stage 0> (in progress)
+* Rs Schools Course <JavaScript/Front-end. Stage 0>
+* Rs Schools Course <JavaScript/Front-end. Stage 1> (in progress)
 * HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/ "w3schools")
 
 ## Languages:
